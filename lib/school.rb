@@ -8,7 +8,6 @@ class School
   def initialize(name)
     @name = name
     @roster = {}
-
   end
 
 # is able to add a student
